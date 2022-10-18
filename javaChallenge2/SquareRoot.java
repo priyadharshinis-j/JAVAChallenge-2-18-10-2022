@@ -30,7 +30,7 @@ public class SquareRoot
 		
 		// eg1. number = 4 then y=4/2=>2
 		// eg2. number =8 then y=8/2=>4.0
-		
+		// intialize the value of y (in iteration first value of y(squaeroot number) should be number/2) 
 		double y = number/2;
 		
 		// eg1. temp = 2
